@@ -1,0 +1,79 @@
+# Site settings
+title: REL Digital Lab 
+email: jewieringa@ua.edu
+description: >
+  Experiments in Digital Humanities and the Social Theory of Religion
+  at the University of Alabama.
+lang: en-US
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url:  # the base hostname & protocol for your site
+git_address: https://github.com/RELDigitalLab
+git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+
+# theme options from https://bootswatch.com/3/
+# comment out this to use default Bootstrap
+bootwatch: paper # cerulean cosmo custom cyborg darkly flatly journal lumen readable sandstone simplex slate solar spacelab superhero united yeti
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+# Plugins (previously gems:)
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .idea/
+  - .gitignore
+  - README.md
+  - vendor
+timezone: America/Chicago
+defaults:
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: post
+    sectionid: blog
+
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
+    sectionid: docs
+    seo:
+      type: "WebPage"
+
+- scope:
+    path: _projects
+    type: projects
+  values:
+    layout: portfolio
+    sectionid: projects
+
+- scope:
+    path: _datasets
+    type: datasets
+  values:
+    layout: portfolio
+    sectionid: datasets
+
+collections:
+  docs:
+    permalink: /:collection/:path/
+    output: true
+  posts:
+    permalink: /blog/:year/:month/:day/:title/
+    output: true
+  projects:
+    permalink: /:collection/:path/
+    output: true
+  datasets:
+    permalink: /:collection/:path/
+    output: true
