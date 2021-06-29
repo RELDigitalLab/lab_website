@@ -1,11 +1,24 @@
 - title: Getting Started
   docs:
   - home
-  - themes
-  - customization
+  - how-to-use
 
-- title: Examples
+- title: Tutorials
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  - tutorials-overview
+  - build-website
+  - use-github
+  - learn-coding
+
+- title: Managing a Digital Project
+  docs:
+  - projects-overview
+  - choose-platform
+  - long-term-planning
+
+- title: Public Engagement
+  docs:
+  - engagement-overview
+  - blogging
+  - social-media-strategy
+  - podcasting

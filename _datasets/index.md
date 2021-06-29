@@ -1,5 +1,5 @@
 ---
-title: Datasets for the Study of Identity
+title: Data for the Study of Identity and Culture
 permalink: /datasets/
 redirect_from: /datasets/index.html
 display: false
@@ -7,4 +7,4 @@ layout: portfolio
 type: datasets
 ---
 
-Demo Text to test what happens (data)
+[Project Charter here.]

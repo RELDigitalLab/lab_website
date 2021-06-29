@@ -1,6 +1,6 @@
 ---
-title: Customization
-permalink: /docs/customization/
+title: How To Use the Docs
+permalink: /docs/how-to-use/
 ---
 
 This template uses [bootstrap-sass](https://github.com/twbs/bootstrap-sass) along with [bootwatch themes](https://bootswatch.com/3).

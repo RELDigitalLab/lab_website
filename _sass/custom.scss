@@ -1,4 +1,37 @@
 .header-container {
-    background: url(../img/bg.jpg) rgba(166, 12, 49, 0.6);
+    background: url(../img/bg.jpg) rgba(166, 12, 49, 0.65);
     background-blend-mode: multiply;
+}
+
+.navbar-brand img {
+    padding: 1px 0;
+}
+.page-description {
+    padding: 5px 0;
+    font-size: 1.8rem;
+}
+
+.well {
+    text-align: center;
+}
+
+.tt-dataset {
+    background: white;
+    width: 150%;
+    padding: 5px;
+}
+
+.flat-list {
+    padding: 10px 0;
+
+    ul {
+        list-style-type: none;
+        padding: 0; 
+    }
+}
+
+.description .thumbnail {
+    width: 45%;
+    margin-left: 20px;
+    float: right;
 }

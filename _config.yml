@@ -9,11 +9,11 @@ lang: en-US
 baseurl: "" # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 git_address: https://github.com/RELDigitalLab
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+git_edit_address: https://github.com/RELDigitalLab/lab_website/tree/main
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
-bootwatch: paper # cerulean cosmo custom cyborg darkly flatly journal lumen readable sandstone simplex slate solar spacelab superhero united yeti
+bootwatch: spacelab # cerulean cosmo custom cyborg darkly flatly journal lumen readable sandstone simplex slate solar spacelab superhero united yeti
 
 # Build settings
 markdown: kramdown
@@ -32,6 +32,7 @@ exclude:
   - .gitignore
   - README.md
   - vendor
+  - deploy.sh
 timezone: America/Chicago
 defaults:
 - scope:

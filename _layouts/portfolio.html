@@ -6,7 +6,9 @@ layout: default
 
 <div class="container">
     <h1>{{ page.title }}</h1>
-    <p>{{ page.content }}</p>
+    <div class="page-description">
+        <p>{{ page.content }}</p>
+    </div>
 
     <div class="row">
     {% case page.type %}
@@ -17,7 +19,13 @@ layout: default
             {% else %}
             <div class="col-md-4">
                 <div class="well">
-                    <h4>{{each.title}}</h4>
+                    {% if each.img %}
+                        <div class="thumbnail">
+                            <img src="/assets/img/{{each.img}}" alt="{{each.img-description}}" />
+                        </div> 
+                    {% endif %}
+                    <h2><a href="{{each.permalink}}">{{each.title}}</a></h2>
+                    <p>{{each.description}}</p>
                 </div>
             </div>
             {% endif %}
@@ -29,7 +37,13 @@ layout: default
             {% else %}
             <div class="col-md-4">
                 <div class="well">
-                    <h4>{{each.title}}</h4>
+                    {% if each.img %}
+                        <div class="thumbnail">
+                            <img src="/assets/img/{{each.img}}" alt="{{each.img-description}}" />
+                        </div> 
+                    {% endif %}
+                    <h2><a href="{{each.permalink}}">{{each.title}}</a></h2>
+                    <p>{{each.description}}</p>
                 </div>
             </div>
             {% endif %}

@@ -7,4 +7,4 @@ layout: portfolio
 type: projects
 ---
 
-Demo Text to test what happens
+Explore the digital scholarship taking place within the Department of Religious Studies at the University of Alabama.

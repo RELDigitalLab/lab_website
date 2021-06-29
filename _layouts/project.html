@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<div class="container">
+
+    <h1>{{ page.title }}</h1>
+
+    <div class="flat-list">
+        <h2>Project Team</h2>
+        <ul>
+            {% for each in page.author %}
+                <li>{{each}}</li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div class="description">
+        {% if page.img %}
+            <div class="thumbnail">
+                <img src="/assets/img/{{ page.img }}" alt="{{ page.img-description }}" />
+            </div>
+        {% endif %}
+        <p>{{ page.content }}</p>
+
+    
+        {% if page.funding %}
+        <div>
+            <h2>Generously supported by:</h2>
+                <ul>
+                {% for each in page.funding %}
+                   <li>{{ each }}</li>
+                {% endfor %}
+                </ul>
+        </div>
+        {% endif %}
+    </div>
+
+    <p><strong>Contact:</strong> {{ page.contact }}</p>
+
+    {% if page.externalurl %}
+        <p><strong>Visit:</strong> <a href="{{ page.externalurl }}">{{ page.externalurl }}</a></p>
+    {% endif %}
+    
+</div>
