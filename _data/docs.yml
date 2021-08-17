@@ -1,24 +1,24 @@
-- title: Getting Started
+- title: Lab Technologies
   docs:
-  - home
-  - how-to-use
+  - hardware
+  - software
 
-- title: Tutorials
-  docs:
-  - tutorials-overview
-  - build-website
-  - use-github
-  - learn-coding
-
-- title: Managing a Digital Project
+- title: Plan a Digital Project
   docs:
   - projects-overview
   - choose-platform
   - long-term-planning
 
-- title: Public Engagement
+- title: Teaching Resources
   docs:
-  - engagement-overview
-  - blogging
-  - social-media-strategy
-  - podcasting
+  - tutorials-overview
+#   - build-website
+#   - use-github
+#   - learn-coding
+
+# - title: Public Engagement
+#   docs:
+#   - engagement-overview
+#   - blogging
+#   - social-media-strategy
+#   - podcasting

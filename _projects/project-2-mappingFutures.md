@@ -4,7 +4,7 @@ title:  "Mapping Futures for the Philosophy of Religion"
 author: 
     - Dr. Nathan Loewen
     - Mr. Jackson Foster
-description: "The project uses artificial intelligence applications to analyze the entirety of several representative journals in the fields of religious studies, the philosophy of religion and philosophy. The aim is not merely to test orthodox accounts of topical emphases in philosophy of religion, but to test those results with comparison corpora from philosophy and religious studies journals in order to propose future topics for philosophers of religion."
+description: "The project uses artificial intelligence applications to analyze the entirety of several representative journals in the fields of religious studies, the philosophy of religion and philosophy."
 contact: nrloewen@ua.edu
 img: Project2-NathanLoewen.PNG
 img-description: "Chart of Documents Linked to Target Topic"

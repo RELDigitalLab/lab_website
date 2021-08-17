@@ -6,7 +6,7 @@ author:
     - Tim Knepper
     - Gereon Kopf
     - et. al.
-description: "We aim to rethink philosophy of religion from the ground-up, with an entirely new set of categories and questions. This is no small task. On the one hand, scholars of religious ideas, reasons, and worldviews are typically trained and competent only in a particular cultural- historical subset of such ideas, reasons, and worldviews. On the other hand, no set of categories and questions drawn from any particular religious or scholarly tradition translates across all religious and scholarly traditions."
+description: "We aim to rethink philosophy of religion from the ground-up, with an entirely new set of categories and questions."
 contact: nrloewen@ua.edu
 externalurl: "https://globalcritical.as.ua.edu/"
 funding:
