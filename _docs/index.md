@@ -1,50 +1,27 @@
 ---
-title: Welcome
+title: Welcome to the RELdl
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-## Getting started
+The REL Digital Lab is the central hub for the digital humanities work of the Religious Studies Department at the University of Alabama.
 
-[GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
-Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
-The good thing about coupling your documentation with the source repo is, whenever you merge features with regarding content to master branch, it will also be published on the webpage instantly.
+## What the REL*dl* does
 
-1. Just [download the source](https://github.com/aksakalli/jekyll-doc-theme/archive/gh-pages.zip) into your repo under `docs` folder.
-2. Edit site settings in  `_config.yml` file according to your project. !!! `baseurl` should be your website's relative URI like `/my-proj` !!!
-3. Replace `favicon.ico` and `assets/img/logonav.png` with your own logo.
+Our goals is to facilitate faculty and student engagement with digital tools and methods in their research and teaching through the aggregation of expertise and resources. We also focus on collaborating with interested partners across campus to develop new projects and bring additional visibility to the digital humanities scholarship taking place at UA. 
 
-## Writing content
+See more on our [About](/about/) page. 
 
-### Docs
+## Using the REL*dl* "Resources" page
 
-Docs are [collections](https://jekyllrb.com/docs/collections/) of pages stored under `_docs` folder. To create a new page:
+The Resources page brings together information on the physical lab and materials for planning digital projects and learning technical skills (**coming soon**) .
 
-**1.** Create a new Markdown as `_docs/my-page.md` and write [front matter](https://jekyllrb.com/docs/frontmatter/) & content such as:
+View "Lab Technologies" for an inventory of the [hardware and software](/docs/hardware/) currently available in the REL digital lab. The lab computers are available to REL faculty and students to reserve for research activities (Bookings link available through Slack).
 
-```
----
-title: My Page
-permalink: /docs/my-page/
----
+We will be releasing additional resources on starting digital projects and for learning or teaching new skills in the coming months.
 
-Hello World!
-```
+## How to connect with us
 
-**2.** Add the pagename to `_data/docs.yml` file in order to list in docs navigation panel:
+We are always looking to learn more about computational work taking place on capmpus and to explore future collaborations. Please [email Dr. Wieringa](mailto:jewieringa@ua.edu) to start a conversation.
 
-```
-- title: My Group Title
-  docs:
-  - my-page
-```
-
-### Blog posts
-
-Add a new Markdown file such as `2017-05-09-my-post.md` and write the content similar to other post examples.
-
-### Pages
-
-The homepage is located under `index.html` file. You can change the content or design completely different welcome page for your taste. (You can use [bootstrap components](http://getbootstrap.com/components/))
-
-In order to add a new page, create a new `.html` or `.md` (markdown) file under root directory and link it in `_includes/topnav.html`.
+For the latest news about the digital work of the department, follow us on [Twitter](https://twitter.com/REL_dl) and visit our [blog](/allposts/).

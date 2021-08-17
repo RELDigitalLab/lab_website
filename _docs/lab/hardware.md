@@ -1,15 +1,18 @@
 ---
-title: Hardware
+title: Computers
 permalink: /docs/hardware/
 ---
 
-The physical space of the lab is designed for collaboration on
+The REL*dl* currently hosts a number of machines, including:
+
+- a Dell G5 Desktop
+- an Apple M1 iMac
+- an iPad Pro
+
+These machines are available for use by REL faculty and students for research use.
+
+[View the list of current computers and installed software](https://jeriwieringa.notion.site/b96575311ff3404198b3f42819f4ea9f?v=90e4cc4d03dd462ea7a8846c0c9c33b8).
+
+You can reserve machines using Bookings (link available in the Religion in Culture MA Slack).
 
 
-
-several laptops and iPads, both a Mac and a PC desktop, audio equipment and a smart display to encourage collaborative work. The space--the daily hours of which are still to be determined--is scheduled to be ready for use by August 2021.
-
-In addition to the technology, the physical space will also be used to house “open hours” for project consultations for REL faculty and students and as a learning space for learning about the different projects and methods of the digital humanities. The lab will organize and host small tool training events, brown-bags, the MA tech talks, and project “release” events (as they occur). The space will also be available for student “showcases” of digital class projects (for the REL 315 course and others.)
-
-- Compute Resources
-- 

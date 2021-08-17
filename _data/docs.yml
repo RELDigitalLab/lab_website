@@ -1,17 +1,17 @@
 - title: Lab Technologies
   docs:
   - hardware
-  - software
+  - additional-tech
 
-- title: Plan a Digital Project
-  docs:
-  - projects-overview
-  - choose-platform
-  - long-term-planning
+# - title: Start a Digital Project
+#   docs:
+#   - projects-overview
+#   - choose-platform
+#   - long-term-planning
 
-- title: Teaching Resources
-  docs:
-  - tutorials-overview
+# - title: Learn about DH
+#   docs:
+#   - tutorials-overview
 #   - build-website
 #   - use-github
 #   - learn-coding
