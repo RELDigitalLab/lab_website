@@ -12,7 +12,7 @@ With the current COVID situation in Alabama, we are postponing Lab open hours fo
 
 For the Fall 2021 semester, we will rely on appointments so that we maintain social distancing in the lab space.
 
-You can use the REL*dl* Bookings page to schedule a project consultation or to reserve the lab computers. The link is available through the Religin in Culture MA Slack workspace.
+You can use the REL*dl* Bookings page to schedule a project consultation. The link is available through the Religin in Culture MA Slack workspace.
 
 
 # Contact Us

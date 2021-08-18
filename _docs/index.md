@@ -14,14 +14,14 @@ See more on our [About](/about/) page.
 
 ## Using the REL*dl* "Resources" page
 
-The Resources page brings together information on the physical lab and materials for planning digital projects and learning technical skills (**coming soon**) .
+The Resources page brings together information on the physical lab and materials for planning digital projects and learning technical skills (**coming soon**).
 
-View "Lab Technologies" for an inventory of the [hardware and software](/docs/hardware/) currently available in the REL digital lab. The lab computers are available to REL faculty and students to reserve for research activities (Bookings link available through Slack).
+View "Lab Technologies" for an inventory of the [hardware and software](/docs/hardware/) currently available in the REL digital lab. The computers will be made available to REL faculty and students to reserve for teaching and research activities.
 
 We will be releasing additional resources on starting digital projects and for learning or teaching new skills in the coming months.
 
 ## How to connect with us
 
-We are always looking to learn more about computational work taking place on capmpus and to explore future collaborations. Please [email Dr. Wieringa](mailto:jewieringa@ua.edu) to start a conversation.
+We are always looking to learn more about computational work taking place on campus and to explore future collaborations. Please [email Dr. Wieringa](mailto:jewieringa@ua.edu) to start a conversation.
 
 For the latest news about the digital work of the department, follow us on [Twitter](https://twitter.com/REL_dl) and visit our [blog](/allposts/).
